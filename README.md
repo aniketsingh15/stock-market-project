@@ -2,7 +2,7 @@
 
 ## Project Overview  
 
-The goal of this project was to design and implement a real-time data pipeline that mimics a producer-consumer relationship using Apache Kafka. This pipeline processes stock market data, stores it in AWS S3, and extracts valuable insights using AWS Glue and Amazon Athena.  
+The goal of this project was to design and implement a real-time data pipeline that simulates a producer-consumer relationship using Apache Kafka. This pipeline processes stock market data, stores it in AWS S3, and extracts valuable insights using AWS Glue and Amazon Athena.  
 
 ### Pipeline Workflow  
 - **Stock Dataset (Kaggle):** A stock market dataset was used as the base input.  
