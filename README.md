@@ -19,7 +19,6 @@ Cloud Storage: Integrated with AWS S3 for scalable data storage.
 Data Organization: Deployed AWS Glue crawlers to structure and catalog the data.
 Querying Insights: Created SQL queries in Athena to calculate daily stock returns, gaining insights into stock performance trends.
 
-
 # Tools & Technologies
 Programming:
 Python: Developed scripts to simulate stock data and manage Kafka producer-consumer flow.
