@@ -9,8 +9,9 @@ The goal of this project was to design and implement a real-time data pipeline t
 - **Real-Time Data Simulation:** Python scripts mimic real-time data producers using the Kafka library, generating stock data streams.  
 - **Apache Kafka:** Acts as the backbone for data streaming. Kafka producers push the data to topics, and consumers retrieve the data for further processing.  
 - **AWS S3:** Consumers write the processed data to S3 buckets for storage.  
-- **AWS Glue:** Crawlers organize and catalog the data stored in S3.  
+- **AWS Glue:** Crawlers organize and catalogue the data stored in S3.  
 - **Amazon Athena:** SQL queries analyze the data, including calculating daily stock returns.
+
 ![image](https://github.com/user-attachments/assets/fd1f046f-f335-4fe5-8e40-52235b85f6c2)
 
 This project highlights my expertise in distributed systems, data streaming, cloud computing, and SQL-based analytics.  
@@ -39,6 +40,12 @@ This project highlights my expertise in distributed systems, data streaming, clo
 - **AWS S3:** Stored the streaming data in a secure and scalable manner.  
 - **AWS Glue:** Automated data crawling and cataloging.  
 - **Amazon Athena:** Queried and analyzed data using SQL.  
+
+Query to get daily-returns:
+![image](https://github.com/user-attachments/assets/a0c62eb6-45af-4eb5-8424-a35c1b0f6aa4)
+
+![image](https://github.com/user-attachments/assets/faa50b35-371e-4d79-a371-2e94d71dbc21)
+
 
 
 
