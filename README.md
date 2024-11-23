@@ -10,7 +10,8 @@ The goal of this project was to design and implement a real-time data pipeline t
 - **Apache Kafka:** Acts as the backbone for data streaming. Kafka producers push the data to topics, and consumers retrieve the data for further processing.  
 - **AWS S3:** Consumers write the processed data to S3 buckets for storage.  
 - **AWS Glue:** Crawlers organize and catalog the data stored in S3.  
-- **Amazon Athena:** SQL queries analyze the data, including calculating daily stock returns.  
+- **Amazon Athena:** SQL queries analyze the data, including calculating daily stock returns.
+![image](https://github.com/user-attachments/assets/fd1f046f-f335-4fe5-8e40-52235b85f6c2)
 
 This project highlights my expertise in distributed systems, data streaming, cloud computing, and SQL-based analytics.  
 
